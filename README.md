@@ -1,8 +1,10 @@
-Стек:
-Vue.js 3 + Composition API (фреймворк)
-TypeScript (язык)
-Pinia (стейт менеджер)
-UI фреймворк - element-plus
+# Тестовое задание для tzSaaSoft
+
+- Стек:
+- Vue.js 3 + Composition API (фреймворк)
+- TypeScript (язык)
+- Pinia (стейт менеджер)
+- UI фреймворк - element-plus
 
 ## Настройка проекта
 
